@@ -28,8 +28,8 @@
     "courage007 <wang_xufa@163.com>"
   ],
   "peerDependencies": {
-    "@angular/common": "^5.1.0",
-    "@angular/core": "^5.1.0"
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
   },
   "dependencies": {},
   "devDependencies": {
